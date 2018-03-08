@@ -16,7 +16,7 @@
 | 🇮🇷 | [Persian_Finglish](translations/README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](translations/README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](translations/README.ko.md) |
-| 🇩🇪  | [Plattdüütsch](translations/README.de.md) |
+| 🇩🇪🇺 | [Deutsch](translations/README.deu.md) |
 | 🇨🇳 🇹🇼 | [中文(Simplified)](translations/README.chs.md), [中文(Traditional)](translations/README.cht.md) |
 | 🇬🇷 | [ελληνικά](translations/README.gr.md) |
 | العربية | [العربية](translations/README.ar.md) |
